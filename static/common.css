@@ -1,0 +1,31 @@
+
+
+
+form{
+    position: relative;
+    margin: 5pc 0pc 0pc 10pc;
+    font-size: 1.5pc;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+form input{
+    margin-left: 2pc;
+    margin-bottom: 2pc;
+    border-radius: 20px;
+    font-size: 1.2pc;
+    background-color: transparent;
+    border-color: white;
+    color: white;
+}
+form .submit{
+    font-size: 1.2pc;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: .6pc 1.5pc .6pc 1.5pc;
+    border-radius: 20px;
+    border-color: white;
+    background-color: transparent;
+    color: white;
+
+}

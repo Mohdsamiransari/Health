@@ -1,0 +1,22 @@
+
+body{
+    background-image: url("/static/images/neurons.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+
+}
+.container{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+    font-size: 5vh;
+    color: rgb(0, 0, 0);
+}
+.container h3{
+    background-color: rgba(0,0,0,.2);
+    border-radius: 20px;
+    color: white;
+
+}

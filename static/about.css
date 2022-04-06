@@ -1,0 +1,25 @@
+.details{
+    position: relative;
+    margin: 2pc 8pc ;
+    text-align: left;
+    font-size: 2.2vmin;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.details h1{
+    margin-bottom: 1pc;
+}
+.details p{
+    position: relative;
+    top: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cancer h1{
+    position: relative;
+    margin-top: 2pc;
+    margin-bottom: 5px;
+}
+.cancer h3{
+    position: relative;
+    margin-top: 1pc;
+}
